@@ -19,3 +19,9 @@ https://stackoverflow.com/questions/12744303/intellij-idea-java-classes-not-auto
 
 MongoDB Tutorial \
 https://docs.spring.io/spring-data/mongodb/docs/2.1.2.RELEASE/reference/html/#mongodb-connectors
+
+MongoDB \
+Install and run local mongodb server
+
+# Run
+./gradlew bootRun
